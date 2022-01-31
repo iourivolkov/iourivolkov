@@ -2,7 +2,13 @@
 
 
 
-### Hi, I'm Iouri 👋
+### Hello there! 👋
+
+I'm Iouri, a Full-Stack web developer from 🇨🇦 Toronto. 
+
+
+
+
 
 
 
