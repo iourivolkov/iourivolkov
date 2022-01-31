@@ -44,6 +44,7 @@ I have a passion for introducing new users to blockchain tech, crafting intuituv
 #
 [<h2>Secret Lurry Society</h2>](https://github.com/iourivolkov/Lurry-Contract-Website)
 
+
 Lighthouse Labs' flagship DApp (decentralized application)  - consisting of an NFT collection, minting website, and LURRY token IDO (initial dex offering). The Floatie Lurry NFT grants exclusive access to a mentorship discord channel and acts as an on-ramp to blockchain technology for first-time users.  The website is pinned to IPFS (InterPlanetary File System).
 
 <b>Technology used:</b>  React, JQuery, Hardhat, Truffle, Ganache, Web3.js, Ethers.js, OpenZeppelin, IPFS (Pinata), Alchemy, ENS 
@@ -64,6 +65,14 @@ A buy and sell NFT (non-fungible token) marketplace. <br/>
 A Single Page App (SPA) Twitter clone - focused on practicing front-end development skills.
 
 <b>Technology used:</b> JS, JQuery, and AJAX, HTML, CSS
+
+<br/>
+
+[<h2>Tiny App</h2>](https://github.com/iourivolkov/tinyapp)
+
+TinyApp is a full-stack web app built with Node and Express that allows users to shorten long URLs (à la bit.ly). Cookies are used to authenticate users and their data is persisted.
+
+<b>Technology used:</b> JS, Node, Express, HTML, CSS
 
 
 
