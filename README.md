@@ -4,7 +4,13 @@
 
 ### Hello there! 👋
 
-I'm Iouri, a Full-Stack web developer from 🇨🇦 Toronto. 
+I'm [Iouri](https://www.linkedin.com/in/iourivolkov/), a Full-Stack web developer from 🇨🇦 Toronto. 
+
+
+
+
+
+
 
 
 
