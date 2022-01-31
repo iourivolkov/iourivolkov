@@ -10,6 +10,8 @@ I'm [Iouri](https://www.linkedin.com/in/iourivolkov/), a Full-Stack web develope
 
 ## Tech Stack 
 
+<p align="center">
+
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -33,6 +35,8 @@ I'm [Iouri](https://www.linkedin.com/in/iourivolkov/), a Full-Stack web develope
 <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
 
 
 
