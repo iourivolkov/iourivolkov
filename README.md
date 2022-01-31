@@ -11,7 +11,7 @@ I have a passion for introducing new users to blockchain tech, crafting intuituv
 
 <br/>
 
-## My Tech Stack 
+# My (current) tech stack consists of:
 
 
 <p align="center">
@@ -40,7 +40,7 @@ I have a passion for introducing new users to blockchain tech, crafting intuituv
 
 </p>
 
-## Projects
+# Projects
 
 [<h2>Secret Lurry Society</h2>](https://github.com/iourivolkov/Lurry-Contract-Website)
 
