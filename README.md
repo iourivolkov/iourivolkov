@@ -2,15 +2,17 @@
 
 
 
-# Hello there! 👋🏻
+# Hey there! 👋🏻
 
-I'm [Iouri](https://www.linkedin.com/in/iourivolkov/), a Full-Stack web developer based in 🇨🇦 Toronto. 
-
-
+My name is [Iouri](https://www.linkedin.com/in/iourivolkov/), and I am a Full-Stack web developer based in 🇨🇦 Toronto. 
 
 
+I have a passion for introducing new users to blockchain tech, crafting intuituve user experiences in Figma, and exploring the city through [photography](https://500px.com/p/ayureeeee?view=photos).
+
+<br/>
 
 ## My Tech Stack 
+#
 
 <p align="center">
 
@@ -37,6 +39,36 @@ I'm [Iouri](https://www.linkedin.com/in/iourivolkov/), a Full-Stack web develope
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
+
+## Projects
+#
+[<h2>Secret Lurry Society</h2>](https://github.com/iourivolkov/Lurry-Contract-Website)
+
+Lighthouse Labs' flagship DApp (decentralized application)  - consisting of an NFT collection, minting website, and LURRY token IDO (initial dex offering). The Floatie Lurry NFT grants exclusive access to a mentorship discord channel and acts as an on-ramp to blockchain technology for first-time users.  The website is pinned to IPFS (InterPlanetary File System).
+
+<b>Technology used:</b>  React, JQuery, Hardhat, Truffle, Ganache, Web3.js, Ethers.js, OpenZeppelin, IPFS (Pinata), Alchemy, ENS 
+
+<br/>
+
+
+[<h2>Light Mart</h2>](https://github.com/iourivolkov/LightMart)
+
+A buy and sell NFT (non-fungible token) marketplace. <br/>
+
+<b>Technology used:</b> JS, HTML, CSS, Bootstrap, PostgreSQL, Express
+
+<br/>
+
+[<h2>Tweeter</h2>](https://github.com/iourivolkov/tweeter-app)
+
+A Single Page App (SPA) Twitter clone - focused on practicing front-end development skills.
+
+<b>Technology used:</b> JS, JQuery, and AJAX, HTML, CSS
+
+
+
+
+
 
 
 
