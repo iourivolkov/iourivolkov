@@ -8,7 +8,7 @@ I have a passion for introducing new users to blockchain tech, crafting intuituv
 
 <br/>
 
-# My (current) tech stack consists of:
+# Languages, Frameworks, Libraries & Software:
 
 <p align="center">
 
