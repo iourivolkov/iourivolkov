@@ -1,18 +1,14 @@
 ![Toronto background](https://github.com/iourivolkov/iourivolkov/blob/main/toronto.png?raw=true)
 
-
-
 # Hey there! 👋🏻
 
-My name is [Iouri](https://www.linkedin.com/in/iourivolkov/), and I am a Full-Stack web developer based in 🇨🇦 Toronto. 
-
+My name is [Iouri](https://www.linkedin.com/in/iourivolkov/), and I am a Full-Stack web developer based in 🇨🇦 Toronto.
 
 I have a passion for introducing new users to blockchain tech, crafting intuituve user experiences in Figma, and exploring the city through [photography](https://500px.com/p/ayureeeee?view=photos).
 
 <br/>
 
 # My (current) tech stack consists of:
-
 
 <p align="center">
 
@@ -34,23 +30,35 @@ I have a passion for introducing new users to blockchain tech, crafting intuituv
 
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
+<br/>
+
+# I'm currently learning:
+
+<p align="center">
+<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+
+</p>
+
+<br/>
 
 # Projects
 
 [<h2>Secret Lurry Society</h2>](https://github.com/iourivolkov/Lurry-Contract-Website)
 
+Lighthouse Labs' flagship DApp (decentralized application) - consisting of an NFT collection, minting website, and LURRY token IDO (initial dex offering). The Floatie Lurry NFT grants exclusive access to a mentorship discord channel and acts as an on-ramp to blockchain technology for first-time users. The website is pinned to IPFS (InterPlanetary File System).
 
-Lighthouse Labs' flagship DApp (decentralized application)  - consisting of an NFT collection, minting website, and LURRY token IDO (initial dex offering). The Floatie Lurry NFT grants exclusive access to a mentorship discord channel and acts as an on-ramp to blockchain technology for first-time users.  The website is pinned to IPFS (InterPlanetary File System).
-
-<b>Technology used:</b>  React, JQuery, Hardhat, Truffle, Ganache, Web3.js, Ethers.js, OpenZeppelin, IPFS (Pinata), Alchemy, ENS 
+<b>Technology used:</b> React, JQuery, Hardhat, Truffle, Ganache, Web3.js, Ethers.js, OpenZeppelin, IPFS (Pinata), Alchemy, ENS
 
 <br/>
-
 
 [<h2>Light Mart</h2>](https://github.com/iourivolkov/LightMart)
 
@@ -74,44 +82,4 @@ TinyApp is a full-stack web app built with Node and Express that allows users to
 
 <b>Technology used:</b> JS, Node, Express, HTML, CSS
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
