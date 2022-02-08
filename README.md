@@ -36,6 +36,8 @@ Currrently, I (along with friends from bootcamp) am developing an NFT collection
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+
 </p>
 <br/>
 
