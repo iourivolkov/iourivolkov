@@ -6,8 +6,6 @@ My name is [Iouri](https://www.linkedin.com/in/iourivolkov/), and I am a Full-St
 
 I have a passion for crafting intuituve user experiences in Figma and exploring the city through [photography](https://500px.com/p/ayureeeee?view=photos).
 
-Having recently graduated from Lighthouse Labs' Full Stack Development bootcamp, I am looking to hone my skills and gain experience in Full Stack development.
-
 <br/>
 
 # Languages, Frameworks, Libraries & Software:
