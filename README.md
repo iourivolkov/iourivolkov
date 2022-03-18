@@ -4,11 +4,9 @@
 
 My name is [Iouri](https://www.linkedin.com/in/iourivolkov/), and I am a Full-Stack web developer based in 🇨🇦 Toronto.
 
-I have a passion for introducing new users to blockchain tech and crypto, crafting intuituve user experiences in Figma, and exploring the city through [photography](https://500px.com/p/ayureeeee?view=photos).
+I have a passion for crafting intuituve user experiences in Figma and exploring the city through [photography](https://500px.com/p/ayureeeee?view=photos).
 
-Having recently graduated from Lighthouse Labs' Full Stack Development bootcamp, I am looking to hone my skills and gain experience in Full Stack development and building DApps using Solidity and Rust.
-
-Currrently, I (along with friends from bootcamp) am developing an NFT collection and community to be launched on Ethereum in Q2 of 2022.
+Having recently graduated from Lighthouse Labs' Full Stack Development bootcamp, I am looking to hone my skills and gain experience in Full Stack development.
 
 <br/>
 
