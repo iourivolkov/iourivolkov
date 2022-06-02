@@ -1,5 +1,3 @@
-![Toronto background](https://raw.githubusercontent.com/iourivolkov/iourivolkov/3aad557df703b4a68f87cdc430a6440ca2620ad4/rainyToronto.png)
-
 # Hey there! 👋🏻
 
 My name is [Iouri](https://www.linkedin.com/in/iourivolkov/), and I am a Full-Stack web developer based in 🇨🇦 Toronto.
