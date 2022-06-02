@@ -48,7 +48,7 @@ I have a passion for crafting intuituve user experiences in Figma and exploring 
 
 A simple weather web application that allows users to search by city and country (optional) and retrieve temperature data for any city around the world.
 
-<b>Technology used:</b> HTML, CSS, React, Netlify
+<b>Technology used:</b> HTML, CSS, React, Netlify, WeatherAPI
 
 <br/>
 
