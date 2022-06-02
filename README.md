@@ -22,8 +22,6 @@ I have a passion for crafting intuituve user experiences in Figma and exploring 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
@@ -31,8 +29,6 @@ I have a passion for crafting intuituve user experiences in Figma and exploring 
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
 
 </p>
 <br/>
@@ -42,11 +38,7 @@ I have a passion for crafting intuituve user experiences in Figma and exploring 
 <p align="center">
 <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
-
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 
 </p>
 
@@ -54,7 +46,15 @@ I have a passion for crafting intuituve user experiences in Figma and exploring 
 
 # Projects
 
-[<h2>Secret Lurry Society</h2>](https://github.com/iourivolkov/Lurry-Contract-Website)
+[<h2>Simple Weather App</h2>](https://weather-tracker-widget.netlify.app/)
+
+A simple weather web application that allows users to search by city and country (optional) and retrieve temperature data for any city around the world.
+
+<b>Technology used:</b> HTML, CSS, React, Netlify
+
+<br/>
+
+[<h2>Secret Lurry Society</h2>](https://secretlurrysociety.eth.link)
 
 Lighthouse Labs' flagship DApp (decentralized application) - consisting of an NFT collection, minting website, and LURRY token IDO (initial dex offering). The Floatie Lurry NFT grants exclusive access to a mentorship discord channel and acts as an on-ramp to blockchain technology for first-time users. The website is pinned to IPFS (InterPlanetary File System).
 
